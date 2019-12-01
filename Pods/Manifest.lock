@@ -1,0 +1,72 @@
+PODS:
+  - Alamofire (4.9.1)
+  - FontAwesome.swift (1.8.2)
+  - lottie-ios (3.1.5)
+  - RxCocoa (4.5.0):
+    - RxSwift (>= 4.4.2, ~> 4.4)
+  - RxSwift (4.5.0)
+  - SDWebImage (5.3.0):
+    - SDWebImage/Core (= 5.3.0)
+  - SDWebImage/Core (5.3.0)
+  - SimpleApiClient (0.1.0):
+    - Alamofire (~> 4.5)
+    - RxSwift (~> 4.0)
+  - SVProgressHUD (2.2.5)
+  - SwifterSwift (5.1.0):
+    - SwifterSwift/AppKit (= 5.1.0)
+    - SwifterSwift/CoreGraphics (= 5.1.0)
+    - SwifterSwift/CoreLocation (= 5.1.0)
+    - SwifterSwift/Dispatch (= 5.1.0)
+    - SwifterSwift/Foundation (= 5.1.0)
+    - SwifterSwift/MapKit (= 5.1.0)
+    - SwifterSwift/SceneKit (= 5.1.0)
+    - SwifterSwift/SpriteKit (= 5.1.0)
+    - SwifterSwift/SwiftStdlib (= 5.1.0)
+    - SwifterSwift/UIKit (= 5.1.0)
+  - SwifterSwift/AppKit (5.1.0)
+  - SwifterSwift/CoreGraphics (5.1.0)
+  - SwifterSwift/CoreLocation (5.1.0)
+  - SwifterSwift/Dispatch (5.1.0)
+  - SwifterSwift/Foundation (5.1.0)
+  - SwifterSwift/MapKit (5.1.0)
+  - SwifterSwift/SceneKit (5.1.0)
+  - SwifterSwift/SpriteKit (5.1.0)
+  - SwifterSwift/SwiftStdlib (5.1.0)
+  - SwifterSwift/UIKit (5.1.0)
+
+DEPENDENCIES:
+  - FontAwesome.swift
+  - lottie-ios
+  - RxCocoa
+  - RxSwift
+  - SDWebImage (~> 5.0)
+  - SimpleApiClient
+  - SVProgressHUD
+  - SwifterSwift
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - FontAwesome.swift
+    - lottie-ios
+    - RxCocoa
+    - RxSwift
+    - SDWebImage
+    - SimpleApiClient
+    - SVProgressHUD
+    - SwifterSwift
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  FontAwesome.swift: 7938d6a03113ff3f39001bde7f50be8a0903d605
+  lottie-ios: 32bf84389337d86fbc8b12266e88452e0abf1dee
+  RxCocoa: cbf70265dc65a981d4ac982e513c10cf23df24a0
+  RxSwift: f172070dfd1a93d70a9ab97a5a01166206e1c575
+  SDWebImage: f1afa74b86587c2c63f4e80dfd39b21e3c17b45b
+  SimpleApiClient: 1c7190075024e807ef635fd683b255546fb50992
+  SVProgressHUD: 1428aafac632c1f86f62aa4243ec12008d7a51d6
+  SwifterSwift: a9e8e144832638c2850b43da5feaf9598c6ad65b
+
+PODFILE CHECKSUM: 607565aba43e9301faef72a4bb60a1084535fe35
+
+COCOAPODS: 1.8.4
