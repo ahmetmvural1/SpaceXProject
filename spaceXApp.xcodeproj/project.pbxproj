@@ -21,7 +21,6 @@
 		829704C3238D953100894EE5 /* ApiClient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 829704C2238D953100894EE5 /* ApiClient.swift */; };
 		829704C6238D956600894EE5 /* AppVariables.swift in Sources */ = {isa = PBXBuildFile; fileRef = 829704C5238D956600894EE5 /* AppVariables.swift */; };
 		829704C8238D95C800894EE5 /* RocketList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 829704C7238D95C800894EE5 /* RocketList.swift */; };
-		829704CC238D987800894EE5 /* arabam_ios_assignment.md in Resources */ = {isa = PBXBuildFile; fileRef = 829704CB238D987800894EE5 /* arabam_ios_assignment.md */; };
 		82970502238DA2E300894EE5 /* ListDataSpaceX.swift in Sources */ = {isa = PBXBuildFile; fileRef = 829704F4238DA2E300894EE5 /* ListDataSpaceX.swift */; };
 		829705102390547200894EE5 /* RocketDetailVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8297050F2390547200894EE5 /* RocketDetailVC.swift */; };
 		82970514239062C800894EE5 /* SplashVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82970513239062C800894EE5 /* SplashVC.swift */; };
@@ -47,7 +46,6 @@
 		829704C2238D953100894EE5 /* ApiClient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ApiClient.swift; sourceTree = "<group>"; };
 		829704C5238D956600894EE5 /* AppVariables.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppVariables.swift; sourceTree = "<group>"; };
 		829704C7238D95C800894EE5 /* RocketList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RocketList.swift; sourceTree = "<group>"; };
-		829704CB238D987800894EE5 /* arabam_ios_assignment.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = arabam_ios_assignment.md; sourceTree = "<group>"; };
 		829704F4238DA2E300894EE5 /* ListDataSpaceX.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListDataSpaceX.swift; sourceTree = "<group>"; };
 		8297050F2390547200894EE5 /* RocketDetailVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RocketDetailVC.swift; sourceTree = "<group>"; };
 		82970513239062C800894EE5 /* SplashVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SplashVC.swift; sourceTree = "<group>"; };
@@ -128,7 +126,6 @@
 			isa = PBXGroup;
 			children = (
 				8208D3EA2393125400DE8AB8 /* 9108-a-small-rocket(1).json */,
-				829704CB238D987800894EE5 /* arabam_ios_assignment.md */,
 				829704AB238D8E8B00894EE5 /* Assets.xcassets */,
 				829704B0238D8E8B00894EE5 /* Info.plist */,
 			);
@@ -254,7 +251,6 @@
 				8208D3EB2393125400DE8AB8 /* 9108-a-small-rocket(1).json in Resources */,
 				829704AF238D8E8B00894EE5 /* LaunchScreen.storyboard in Resources */,
 				829704AC238D8E8B00894EE5 /* Assets.xcassets in Resources */,
-				829704CC238D987800894EE5 /* arabam_ios_assignment.md in Resources */,
 				829704AA238D8E8200894EE5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
