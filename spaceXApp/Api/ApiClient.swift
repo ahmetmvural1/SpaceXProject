@@ -14,7 +14,7 @@ class ApiClient: SimpleApiClient {
         let config = SimpleApiClient.Config(
             baseUrl: api.url,
             timeout: 30,
-            errorMessageKeyPath: "error",     
+            errorMessageKeyPath: "error",
             jsonDecoder: JSONDecoder(),
             isMockResponseEnabled: true,
             logHandler: { request, response in
@@ -23,7 +23,7 @@ class ApiClient: SimpleApiClient {
             errorHandler: { error in
                 switch error {
                 case .authenticationError(let code, let message):
-                    print("authenticationError: \(code) \(message)")
+                    print("\(code) \(message)")
                 case .clientError(let code, let message):
                     print("clientError: \(code) \(message)")
                 case .serverError(let code, let message):
