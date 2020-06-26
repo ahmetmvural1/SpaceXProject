@@ -14,7 +14,7 @@ class ApiClient: SimpleApiClient {
         let config = SimpleApiClient.Config(
             baseUrl: api.url,
             timeout: 30,
-            errorMessageKeyPath: "error",
+            errorMessageKeyPath: "error", 
             jsonDecoder: JSONDecoder(),
             isMockResponseEnabled: true,
             logHandler: { request, response in
